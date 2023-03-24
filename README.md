@@ -4,13 +4,14 @@ Dataset of covert communication channels for the IEEE 802.11 standard (WiFi)
 ## License
 See licence file LICENCE.txt
 
+## Datasets SMA
++ 8 different SNR leves
 
-## 1. Amplitud Modulation Short Training Sequence Hardare Trojan (AM STS HT)
-### Datasets
-+ 8 different SNR levels
+### HT-free
++ Clean signal
+
+### Amplitud Modulation Short Training Sequence Hardare Trojan (AM STS HT)
 + three different AM (alpha) mangitudes, 5%, 10% and 15%
 
-## 2. Phase Shift Keying Short Training Sequence Hardare Trojan (PSK STS HT)
-### Datasets
-+ 8 different SNR levels
+### Phase Shift Keying Short Training Sequence Hardare Trojan (PSK STS HT)
 + three different cases (beta), 8, 6, and 4 bits per frame
