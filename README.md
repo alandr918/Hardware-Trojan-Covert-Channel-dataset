@@ -15,3 +15,6 @@ See licence file LICENCE.txt
 
 ### Phase Shift Keying Short Training Sequence Hardare Trojan (PSK STS HT)
 + three different cases (beta), 8, 6, and 4 bits per frame
++ 8-bits per frame (implemented)
++ 6-bits (TODO)
++ 4-bits (TODO)
