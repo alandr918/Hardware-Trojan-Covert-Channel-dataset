@@ -1,5 +1,12 @@
 # Covert Commuication Channels dataset
-Dataset of covert communication channels for the IEEE 802.11 standard (WiFi)
+Dataset of covert communication channels for the IEEE 802.11 standard (WiFi).
++ Acquisitions are received downconverted IQ samples using a Software Defined Radio (SDR) board bladeRF xA9.
++ Transmission signals are created in Matlab following the physical layer (PHY) specifications.
++ A frame of the transmitted signal is composed of a preamble and the payload.
++ The preamble is composed of 320 IQ samples.
++ The payload is an OFDM-QPSK signal of 320 IQ samples.
++ The total frame size is 640 IQ samples.
++ In each transmitted signal there are 1024 frames (each has 640 samples), so 655,360 samples.
 
 ## License
 See licence file LICENCE.txt
