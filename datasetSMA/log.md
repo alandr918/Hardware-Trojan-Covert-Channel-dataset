@@ -14,9 +14,11 @@ Label of the files and meaning:
 ```
 
 ## AM STS HT
-+ alpha (a), i.e., amplitud modulation of corrupted subcarriers at 10%
++ alpha (a), i.e., amplitud modulation of corrupted subcarriers at 5%, 10%, and 15%
 ```
+    rxSig_1dB_HT1_a5 ... rxSig_8dB_HT1_a5
     rxSig_1dB_HT1_a10 ... rxSig_8dB_HT1_a10
+    rxSig_1dB_HT1_a15 ... rxSig_8dB_HT1_a15
 ```
 
 ## PSK STS HT
