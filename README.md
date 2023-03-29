@@ -1,5 +1,10 @@
 # Covert Commuication Channels dataset
-Dataset of covert communication channels for the IEEE 802.11 standard (WiFi).
+Dataset of wireless Covert Communication Channels (CCCs) for the IEEE 802.11 standard (WiFi).
+
+## Objectives
+Undetectability and reliability are the main goals of wireless covert communication channel. Also, the hardware overhead to enable the CCC must be minimum to be stealthy.
+
+## Characteristics
 + Acquisitions are received downconverted IQ samples using a Software Defined Radio (SDR) board bladeRF xA9.
 + Transmission signals are created in Matlab following the physical layer (PHY) specifications.
 + A frame of the transmitted signal is composed of a preamble and the payload.
