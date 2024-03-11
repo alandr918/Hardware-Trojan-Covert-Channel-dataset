@@ -11,10 +11,14 @@ The dataset contains for 8 different SNR values, ranging from 1dB to 29dB with a
 Files are named according to the following convention:
 
 First acquisition:
-rxSig_<SNR value>dB_HT<HTCC attack>.mat
+```
+rxSig_< SNR value >dB_HT< HTCC attack >.mat
+```
 
-Seconf acquisition:
-rxSig_<SNR value>dB_HT<HTCC attack>.mat
+Second acquisition:
+```
+rxSig_< SNR value >dB_HT< HTCC attack >_.mat
+```
 
 SNR value: ranging from 1dB to 29dB with a step of 4dB, i.e., 1 = 1db, 2 = 5db, 3 = 9dB, 4 = 13dB, 5 = 17dB, 6 = 21dB, 7 = 25dB, 8 = 29dB.
 
