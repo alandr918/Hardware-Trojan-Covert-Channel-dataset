@@ -1,4 +1,4 @@
-# Covert Communication Channels based on Hardware Trojans: open-source dataset and AI-based detection
+# Covert Communication Channels based on Hardware Trojans: open-source dataset
 Dataset of Hardware-Trojan (HT) based Covert Channels (HT-CCs) for the IEEE 802.11 (WiFi) standard.
 
 ## License
