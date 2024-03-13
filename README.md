@@ -53,7 +53,7 @@ The implemented version of this attack has an embedding frequency of 5 subcarrie
 The HT4-CC is the AM analog/RF attack based on paper
 > K. S. Subramani, N. Helal, A. Antonopoulos, A. Nosratinia, and Y. Makris, “Amplitude-modulating analog/RF hardware trojans in wireless networks: Risks and remedies,” IEEE Trans. Inf. Forensics Security, vol. 15, pp. 3497–3510, Apr. 2020
 
-Due to SPI limitations, the implemented verison of the attack is a digitally-emulated version of the AM analog/RF attack. It leaks 8 bits per transmitted frame.
+Due to SPI limitations, the implemented version of the attack is a digitally-emulated version of the AM analog/RF attack. It leaks 8 bits per transmitted frame.
 
 ## Hardware Platform
 Acquisitions are received downconverted IQ samples using a Software Defined Radio (SDR) board bladeRF xA9.
