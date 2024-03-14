@@ -39,7 +39,7 @@ The amplitude modulation value alpha is set to 10%.
 
 ### HT2-CC
 The HT2-CC is the PSK STF HT attack based on the paper
-> J. Classen, M. Schulz and M. Hollick, "Practical covert channels for WiFi systems," in Proceedings of 2015 IEEE Conference on Communications and Network Security (CNS), Florence, Italy, 2015, pp. 209-217, doi: 10.1109/CNS.2015.7346830.
+> J. Classen, M. Schulz and M. Hollick, "Practical covert channels for WiFi systems," 2015 IEEE Conference on Communications and Network Security (CNS), Florence, Italy, 2015, pp. 209-217, doi: 10.1109/CNS.2015.7346830.
 
 The implemented version is leaking 8 bits per OFDM PPDU.
 
