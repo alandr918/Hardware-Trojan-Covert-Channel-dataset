@@ -45,8 +45,7 @@ The implemented version is leaking 8 bits per OFDM PPDU.
 
 ### HT3-CC
 The HT3-CC is the Dirty Constellation attack based on paper
-> A. Dutta, D. Saha, D. Grunwald and D. Sicker, "Secret Agent Radio: Covert Communication through Dirty Constellations," in Information Hiding, M. Kirchner and D. Ghosal, Eds., Berlin, Heidelberg, 2013,
-pp. 160–175, Springer Berlin Heidelberg, doi: 10.1007/978-3-642-36373-3_11.
+> A. Dutta, D. Saha, D. Grunwald and D. Sicker, "Secret Agent Radio: Covert Communication through Dirty Constellations," in Proceedings of the 14th international conference on Information Hiding (IH'12). Springer-Verlag, Berlin, Heidelberg, 160–175, doi: 10.1007/978-3-642-36373-3_11.
 
 The implemented version of this attack has an embedding frequency of 5 subcarriers per OFDM symbol, where each OFDM symbol comprises 48 data subcarriers. Each dirty subcarrier is leaking 2 bits; therefore, we are leaking 10 bits per OFDM symbol,
 
