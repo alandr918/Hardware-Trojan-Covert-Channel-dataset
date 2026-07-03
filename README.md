@@ -12,6 +12,7 @@ Please reference the following paper when using the dataset:
 + The dataset has 80 dataset elements organized in 5 classes, namely CC-free (HT0-CC) and CC-infected (HTX-CC, X={1, · · · , 4}), each class has 16 elements.
 + Those 16 elements are 8 acquisitions for different SNR values ranging from 1dB to 29dB with a step of 4dB, 2 acquisitions for each SNR value. The second acquisition was obtained immediately after the first one, with no other parameters changing between one acquisition and the other. The second acquisition is marked with an underscore in the naming of the file.
 + Each dataset element has 2000 frames and it is the concatenation of ten 200-frames sub-acquisitions.
++ The dataset is split into 70% for training and 30% for testing/validation. See "Read_Split.ipynb" file.
 
 ### Naming convention
 Files are named according to the following convention:
